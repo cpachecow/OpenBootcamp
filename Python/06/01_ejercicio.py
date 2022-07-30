@@ -1,4 +1,4 @@
-# Ejercicio 1, clase class Auto: 
+# Ejercicio 1, clase POO: 
 
 class Vehiculo():
 
