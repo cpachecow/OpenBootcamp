@@ -1,0 +1,17 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto de Javascript con Node, en Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node hola_mundo.js",
+    "tarea_01": "node tarea_01.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "Cristian Pacheco",
+  "license": "ISC"
+}
